@@ -1,6 +1,30 @@
-#test {
-    background-color: red;
-    .cake {
-        background-color: blue;
+body {
+    background-color: blue;
+    header {
+        background-color: red;
+        nav{
+            background-color: green;
+            ul {
+                background-color: yellow;
+                li {
+                    background-color: black;
+                }
+            }
+        }
+    }
+    main {
+        background-color: indigo;
+        section {
+            background-color: cyan;
+            article {
+                background-color: violet;
+            }
+        }
+    }
+}
+
+ul {
+    li {
+        list-style: disc;
     }
 }
