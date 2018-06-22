@@ -1,0 +1,27 @@
+{
+  "name": "sass-proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sass",
+  "dependencies": {
+    "gulp-sass": "^4.0.1",
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^3.0.0",
+    "gulp-uglifycss": "^1.1.0",
+    "pump": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp sass"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmhedrick/sass-tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmhedrick/sass-tools/issues"
+  },
+  "homepage": "https://github.com/cmhedrick/sass-tools#readme"
+}
